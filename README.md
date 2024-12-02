@@ -1,6 +1,6 @@
 # John Wayne Illao Obrador
 
-#BSIT - 2104
+# BSIT - 2104
 
 **Semestral Project**
 
